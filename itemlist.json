@@ -15,7 +15,7 @@
 	{
 		"abr": "agavefruit",
 		"price": 2,
-		"category": "Vegetarian",
+		"category": "Fruits",
 		"defname": "RawAgave"
 	},
 	{
@@ -27,7 +27,7 @@
 	{
 		"abr": "alpaca",
 		"price": 583,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Alpaca"
 	},
 	{
@@ -45,7 +45,7 @@
 	{
 		"abr": "alphabeaver",
 		"price": 417,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Alphabeaver"
 	},
 	{
@@ -99,13 +99,13 @@
 	{
 		"abr": "arcticfox",
 		"price": 333,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Fox_Arctic"
 	},
 	{
 		"abr": "arcticwolf",
 		"price": 583,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Wolf_Arctic"
 	},
 	{
@@ -183,7 +183,7 @@
 	{
 		"abr": "berries",
 		"price": 2,
-		"category": "Vegetarian",
+		"category": "Fruits",
 		"defname": "RawBerries"
 	},
 	{
@@ -261,7 +261,7 @@
 	{
 		"abr": "boomalope",
 		"price": 583,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Boomalope"
 	},
 	{
@@ -273,7 +273,7 @@
 	{
 		"abr": "boomrat",
 		"price": 167,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Boomrat"
 	},
 	{
@@ -327,7 +327,7 @@
 	{
 		"abr": "capybara",
 		"price": 250,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Capybara"
 	},
 	{
@@ -339,7 +339,7 @@
 	{
 		"abr": "caribou",
 		"price": 500,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Caribou"
 	},
 	{
@@ -351,7 +351,7 @@
 	{
 		"abr": "cassowary",
 		"price": 333,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Cassowary"
 	},
 	{
@@ -363,7 +363,7 @@
 	{
 		"abr": "cat",
 		"price": 167,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Cat"
 	},
 	{
@@ -411,7 +411,7 @@
 	{
 		"abr": "chicken",
 		"price": 83,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Chicken"
 	},
 	{
@@ -435,7 +435,7 @@
 	{
 		"abr": "chinchilla",
 		"price": 250,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Chinchilla"
 	},
 	{
@@ -453,7 +453,7 @@
 	{
 		"abr": "chocolate",
 		"price": 5,
-		"category": "Foods",
+		"category": "Sweets",
 		"defname": "Chocolate"
 	},
 	{
@@ -471,7 +471,7 @@
 	{
 		"abr": "cobra",
 		"price": 250,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Cobra"
 	},
 	{
@@ -519,7 +519,7 @@
 	{
 		"abr": "cougar",
 		"price": 667,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Cougar"
 	},
 	{
@@ -531,7 +531,7 @@
 	{
 		"abr": "cow",
 		"price": 500,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Cow"
 	},
 	{
@@ -555,7 +555,7 @@
 	{
 		"abr": "deer",
 		"price": 417,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Deer"
 	},
 	{
@@ -609,7 +609,7 @@
 	{
 		"abr": "dromedary",
 		"price": 500,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Dromedary"
 	},
 	{
@@ -663,7 +663,7 @@
 	{
 		"abr": "elephant",
 		"price": 1000,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Elephant"
 	},
 	{
@@ -687,7 +687,7 @@
 	{
 		"abr": "elk",
 		"price": 500,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Elk"
 	},
 	{
@@ -711,7 +711,7 @@
 	{
 		"abr": "emu",
 		"price": 333,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Emu"
 	},
 	{
@@ -729,7 +729,7 @@
 	{
 		"abr": "fennecfox",
 		"price": 333,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Fox_Fennec"
 	},
 	{
@@ -825,7 +825,7 @@
 	{
 		"abr": "gazelle",
 		"price": 250,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Gazelle"
 	},
 	{
@@ -897,7 +897,7 @@
 	{
 		"abr": "grizzlybear",
 		"price": 1167,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Bear_Grizzly"
 	},
 	{
@@ -915,7 +915,7 @@
 	{
 		"abr": "hare",
 		"price": 83,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Hare"
 	},
 	{
@@ -927,7 +927,7 @@
 	{
 		"abr": "hay",
 		"price": 1,
-		"category": "Foods",
+		"category": "Animal Feed",
 		"defname": "Hay"
 	},
 	{
@@ -1005,7 +1005,7 @@
 	{
 		"abr": "human",
 		"price": 2917,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Human"
 	},
 	{
@@ -1023,7 +1023,7 @@
 	{
 		"abr": "husky",
 		"price": 417,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Husky"
 	},
 	{
@@ -1047,7 +1047,7 @@
 	{
 		"abr": "ibex",
 		"price": 417,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Ibex"
 	},
 	{
@@ -1089,7 +1089,7 @@
 	{
 		"abr": "iguana",
 		"price": 167,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Iguana"
 	},
 	{
@@ -1161,7 +1161,7 @@
 	{
 		"abr": "kibble",
 		"price": 2,
-		"category": "Foods",
+		"category": "Animal Feed",
 		"defname": "Kibble"
 	},
 	{
@@ -1179,7 +1179,7 @@
 	{
 		"abr": "labradorretriever",
 		"price": 417,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "LabradorRetriever"
 	},
 	{
@@ -1257,7 +1257,7 @@
 	{
 		"abr": "lynx",
 		"price": 417,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Lynx"
 	},
 	{
@@ -1311,7 +1311,7 @@
 	{
 		"abr": "megascarab",
 		"price": 167,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Megascarab"
 	},
 	{
@@ -1323,7 +1323,7 @@
 	{
 		"abr": "megasloth",
 		"price": 1167,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Megasloth"
 	},
 	{
@@ -1341,13 +1341,13 @@
 	{
 		"abr": "megaspider",
 		"price": 833,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Megaspider"
 	},
 	{
 		"abr": "milk",
 		"price": 5,
-		"category": "Animal products",
+		"category": "Ingredients",
 		"defname": "Milk"
 	},
 	{
@@ -1377,7 +1377,7 @@
 	{
 		"abr": "monkey",
 		"price": 167,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Monkey"
 	},
 	{
@@ -1395,7 +1395,7 @@
 	{
 		"abr": "muffalo",
 		"price": 500,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Muffalo"
 	},
 	{
@@ -1461,7 +1461,7 @@
 	{
 		"abr": "ostrich",
 		"price": 417,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Ostrich"
 	},
 	{
@@ -1503,7 +1503,7 @@
 	{
 		"abr": "panther",
 		"price": 667,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Panther"
 	},
 	{
@@ -1557,7 +1557,7 @@
 	{
 		"abr": "pig",
 		"price": 333,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Pig"
 	},
 	{
@@ -1611,7 +1611,7 @@
 	{
 		"abr": "polarbear",
 		"price": 1167,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Bear_Polar"
 	},
 	{
@@ -1719,7 +1719,7 @@
 	{
 		"abr": "raccoon",
 		"price": 167,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Raccoon"
 	},
 	{
@@ -1731,7 +1731,7 @@
 	{
 		"abr": "rat",
 		"price": 58,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Rat"
 	},
 	{
@@ -1755,7 +1755,7 @@
 	{
 		"abr": "redfox",
 		"price": 333,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Fox_Red"
 	},
 	{
@@ -1773,7 +1773,7 @@
 	{
 		"abr": "rhinoceros",
 		"price": 1167,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Rhinoceros"
 	},
 	{
@@ -1941,7 +1941,7 @@
 	{
 		"abr": "snowhare",
 		"price": 83,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Snowhare"
 	},
 	{
@@ -1959,7 +1959,7 @@
 	{
 		"abr": "spelopede",
 		"price": 333,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Spelopede"
 	},
 	{
@@ -1971,7 +1971,7 @@
 	{
 		"abr": "squirrel",
 		"price": 58,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Squirrel"
 	},
 	{
@@ -2073,7 +2073,7 @@
 	{
 		"abr": "thrumbo",
 		"price": 6667,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Thrumbo"
 	},
 	{
@@ -2097,7 +2097,7 @@
 	{
 		"abr": "timberwolf",
 		"price": 583,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Wolf_Timber"
 	},
 	{
@@ -2121,7 +2121,7 @@
 	{
 		"abr": "tortoise",
 		"price": 333,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Tortoise"
 	},
 	{
@@ -2181,7 +2181,7 @@
 	{
 		"abr": "turkey",
 		"price": 167,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Turkey"
 	},
 	{
@@ -2307,7 +2307,7 @@
 	{
 		"abr": "warg",
 		"price": 750,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Warg"
 	},
 	{
@@ -2331,7 +2331,7 @@
 	{
 		"abr": "wildboar",
 		"price": 333,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "WildBoar"
 	},
 	{
@@ -2379,7 +2379,7 @@
 	{
 		"abr": "yorkshireterrier",
 		"price": 167,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "YorkshireTerrier"
 	},
 	{
@@ -2391,21 +2391,519 @@
 	{
 		"abr": "biofuelrefinery",
 		"price": 650,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "BiofuelRefinery"
 	},
 	{
 		"abr": "fabricationbench",
 		"price": 1967,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "FabricationBench"
 	},
 	{
 		"abr": "hi-techresearchbench",
 		"price": 1383,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "HiTechResearchBench"
+	},
+	{
+		"abr": "apples",
+		"price": 2,
+		"category": "Fruits",
+		"defname": "Rawapple"
+	},
+	{
+		"abr": "bakedpolenta",
+		"price": 42,
+		"category": "Fine Meals",
+		"defname": "bakedpolenta"
+	},
+	{
+		"abr": "bamboo",
+		"price": 2,
+		"category": "Raw resources",
+		"defname": "Bamboo"
+	},
+	{
+		"abr": "bamboocampfire",
+		"price": 48,
+		"category": "Misc",
+		"defname": "VG_Campfire"
+	},
+	{
+		"abr": "banana",
+		"price": 2,
+		"category": "Fruits",
+		"defname": "Rawbanana"
+	},
+	{
+		"abr": "barley",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "RawBarley"
+	},
+	{
+		"abr": "bean",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "Rawbean"
+	},
+	{
+		"abr": "biofuel",
+		"price": 7,
+		"category": "Manufactured",
+		"defname": "VG_Biofuel"
+	},
+	{
+		"abr": "blueberry",
+		"price": 2,
+		"category": "Fruits",
+		"defname": "Rawblueberry"
+	},
+	{
+		"abr": "bowlofstew",
+		"price": 42,
+		"category": "Lavish Meals",
+		"defname": "bowlstew"
+	},
+	{
+		"abr": "bread",
+		"price": 25,
+		"category": "Simple Meals",
+		"defname": "Bread"
+	},
+	{
+		"abr": "cactusfruit",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "RawCactusFruit"
+	},
+	{
+		"abr": "caramel",
+		"price": 42,
+		"category": "Sweets",
+		"defname": "Caramel"
+	},
+	{
+		"abr": "cheese",
+		"price": 25,
+		"category": "Ingredients",
+		"defname": "cheese"
+	},
+	{
+		"abr": "cheeseburger",
+		"price": 42,
+		"category": "Simple Meals",
+		"defname": "grilledmeat"
+	},
+	{
+		"abr": "cherries",
+		"price": 2,
+		"category": "Fruits",
+		"defname": "RawCherry"
+	},
+	{
+		"abr": "chocolatemilk",
+		"price": 25,
+		"category": "Sweets",
+		"defname": "Chocomilk"
+	},
+	{
+		"abr": "cloudberry",
+		"price": 2,
+		"category": "Fruits",
+		"defname": "Rawcloudberry"
+	},
+	{
+		"abr": "coconut",
+		"price": 2,
+		"category": "Fruits",
+		"defname": "RawCoconut"
+	},
+	{
+		"abr": "coffeebeans",
+		"price": 7,
+		"category": "Plant matter",
+		"defname": "CPD_CoffeeBeans"
+	},
+	{
+		"abr": "cookie",
+		"price": 33,
+		"category": "Lavish Meals",
+		"defname": "cookie"
+	},
+	{
+		"abr": "cookingtools",
+		"price": 800,
+		"category": "Production",
+		"defname": "CookingTools"
+	},
+	{
+		"abr": "cornbread",
+		"price": 25,
+		"category": "Simple Meals",
+		"defname": "Cornbread"
+	},
+	{
+		"abr": "cornmeal",
+		"price": 5,
+		"category": "Ingredients",
+		"defname": "Cornmeal"
+	},
+	{
+		"abr": "date",
+		"price": 2,
+		"category": "Fruits",
+		"defname": "Rawdate"
+	},
+	{
+		"abr": "driedfruit",
+		"price": 23,
+		"category": "Fruits",
+		"defname": "driedfruit"
+	},
+	{
+		"abr": "electricmillingstone",
+		"price": 276,
+		"category": "Production",
+		"defname": "ElectricGrindStone"
+	},
+	{
+		"abr": "electricoven",
+		"price": 367,
+		"category": "Production",
+		"defname": "ElectricOven"
+	},
+	{
+		"abr": "fig",
+		"price": 2,
+		"category": "Fruits",
+		"defname": "Rawfig"
+	},
+	{
+		"abr": "flour",
+		"price": 7,
+		"category": "Ingredients",
+		"defname": "Flour"
+	},
+	{
+		"abr": "foodpreptable",
+		"price": 139,
+		"category": "Production",
+		"defname": "Canningstove"
+	},
+	{
+		"abr": "fruitdrink",
+		"price": 12,
+		"category": "Sweets",
+		"defname": "Fruitdrink"
+	},
+	{
+		"abr": "fruitpieslice",
+		"price": 42,
+		"category": "Simple Meals",
+		"defname": "BlueberryPie"
+	},
+	{
+		"abr": "fueledfoodpreptable",
+		"price": 139,
+		"category": "Production",
+		"defname": "HandCanningstove"
+	},
+	{
+		"abr": "fueledsweetstable",
+		"price": 217,
+		"category": "Production",
+		"defname": "FueledCandyTable"
+	},
+	{
+		"abr": "gardencoffee",
+		"price": 13,
+		"category": "Sweets",
+		"defname": "Coffee"
+	},
+	{
+		"abr": "gardentea",
+		"price": 13,
+		"category": "Sweets",
+		"defname": "Cuptea"
+	},
+	{
+		"abr": "gooseberry",
+		"price": 2,
+		"category": "Fruits",
+		"defname": "Rawgooseberry"
+	},
+	{
+		"abr": "grapes",
+		"price": 2,
+		"category": "Fruits",
+		"defname": "Rawgrape"
+	},
+	{
+		"abr": "grilledcheesesandwich",
+		"price": 33,
+		"category": "Simple Meals",
+		"defname": "grilledcheese"
+	},
+	{
+		"abr": "grilledkabob",
+		"price": 30,
+		"category": "Simple Meals",
+		"defname": "Kabob"
+	},
+	{
+		"abr": "grilledpolenta",
+		"price": 42,
+		"category": "Fine Meals",
+		"defname": "grilledpolenta"
+	},
+	{
+		"abr": "grilledsteak",
+		"price": 30,
+		"category": "Simple Meals",
+		"defname": "Grilledsteak"
+	},
+	{
+		"abr": "grilledvegetables",
+		"price": 30,
+		"category": "Simple Meals",
+		"defname": "Grilledveg"
+	},
+	{
+		"abr": "hardcandy",
+		"price": 42,
+		"category": "Sweets",
+		"defname": "Hardcandy"
+	},
+	{
+		"abr": "icecream",
+		"price": 42,
+		"category": "Sweets",
+		"defname": "icecream"
+	},
+	{
+		"abr": "ironwood",
+		"price": 3,
+		"category": "Raw resources",
+		"defname": "VG_IronWoodLog"
+	},
+	{
+		"abr": "makiroll",
+		"price": 35,
+		"category": "Fine Meals",
+		"defname": "MakiRoll"
+	},
+	{
+		"abr": "makivegetarianroll",
+		"price": 35,
+		"category": "Simple Meals",
+		"defname": "MakiVegRoll"
+	},
+	{
+		"abr": "meatpie",
+		"price": 20,
+		"category": "Simple Meals",
+		"defname": "meatpie"
+	},
+	{
+		"abr": "millingstone",
+		"price": 166,
+		"category": "Production",
+		"defname": "GrindStone"
+	},
+	{
+		"abr": "muffin",
+		"price": 42,
+		"category": "Fine Meals",
+		"defname": "muffin"
+	},
+	{
+		"abr": "mushroom",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Rawmushroom"
+	},
+	{
+		"abr": "nigiri",
+		"price": 27,
+		"category": "Simple Meals",
+		"defname": "Nigiri"
+	},
+	{
+		"abr": "olive",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "RawOlive"
+	},
+	{
+		"abr": "orange",
+		"price": 2,
+		"category": "Fruits",
+		"defname": "Raworange"
+	},
+	{
+		"abr": "oven",
+		"price": 212,
+		"category": "Production",
+		"defname": "Oven"
+	},
+	{
+		"abr": "peach",
+		"price": 2,
+		"category": "Fruits",
+		"defname": "Rawpeach"
+	},
+	{
+		"abr": "pickledvegetable",
+		"price": 22,
+		"category": "Vegetarian",
+		"defname": "PickledVeg"
+	},
+	{
+		"abr": "pineapple",
+		"price": 2,
+		"category": "Fruits",
+		"defname": "Rawpineapple"
+	},
+	{
+		"abr": "pizza",
+		"price": 42,
+		"category": "Lavish Meals",
+		"defname": "pizza"
+	},
+	{
+		"abr": "polenta",
+		"price": 23,
+		"category": "Vegetarian",
+		"defname": "RawPolenta"
+	},
+	{
+		"abr": "porridge",
+		"price": 27,
+		"category": "Simple Meals",
+		"defname": "Porridge"
+	},
+	{
+		"abr": "redlentil",
+		"price": 3,
+		"category": "Meat",
+		"defname": "RawRedLentil"
+	},
+	{
+		"abr": "salt",
+		"price": 2,
+		"category": "Raw resources",
+		"defname": "ChunkSalt"
+	},
+	{
+		"abr": "saltedmeat",
+		"price": 8,
+		"category": "Meat",
+		"defname": "SaltedMeat"
+	},
+	{
+		"abr": "silage",
+		"price": 2,
+		"category": "Animal Feed",
+		"defname": "Silage"
+	},
+	{
+		"abr": "smoothie",
+		"price": 42,
+		"category": "Sweets",
+		"defname": "smoothie"
+	},
+	{
+		"abr": "snowbeet",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "Rawsnowbeet"
+	},
+	{
+		"abr": "stackofplancakes",
+		"price": 42,
+		"category": "Simple Meals",
+		"defname": "PlanCake"
+	},
+	{
+		"abr": "stirfry",
+		"price": 42,
+		"category": "Fine Meals",
+		"defname": "stirfry"
+	},
+	{
+		"abr": "sugar",
+		"price": 7,
+		"category": "Ingredients",
+		"defname": "Sugar"
+	},
+	{
+		"abr": "sugarcane",
+		"price": 3,
+		"category": "Ingredients",
+		"defname": "Rawsugarcane"
+	},
+	{
+		"abr": "sweetbun",
+		"price": 42,
+		"category": "Fine Meals",
+		"defname": "sweetbun"
+	},
+	{
+		"abr": "sweetstable",
+		"price": 217,
+		"category": "Production",
+		"defname": "CandyTable"
+	},
+	{
+		"abr": "tacos",
+		"price": 25,
+		"category": "Fine Meals",
+		"defname": "Tacos"
+	},
+	{
+		"abr": "taffy",
+		"price": 42,
+		"category": "Sweets",
+		"defname": "Taffy"
+	},
+	{
+		"abr": "tealeaves",
+		"price": 3,
+		"category": "Plant matter",
+		"defname": "Rawtea"
+	},
+	{
+		"abr": "tofu",
+		"price": 23,
+		"category": "Meat",
+		"defname": "Rawtofu"
+	},
+	{
+		"abr": "veganeggsubstitute",
+		"price": 3,
+		"category": "Eggs (unfert.)",
+		"defname": "VeganEgg"
+	},
+	{
+		"abr": "watermelon",
+		"price": 2,
+		"category": "Fruits",
+		"defname": "Rawwatermelon"
+	},
+	{
+		"abr": "wheat",
+		"price": 3,
+		"category": "Vegetarian",
+		"defname": "Rawwheat"
+	},
+	{
+		"abr": "yogurt",
+		"price": 42,
+		"category": "Sweets",
+		"defname": "yogurt"
 	}
 	],
-	"total": 401
+	"total": 484
 }
